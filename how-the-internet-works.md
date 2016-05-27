@@ -1,4 +1,7 @@
-# How the internet works
+---
+layout: blog
+title: How the internet works
+---
 
 When your computer connects to the internet, it is given an **[IP address](https://en.wikipedia.org/wiki/IP_address)**. This address is a unique identifier for your device on the internet. Every device that joins the internet is assigned an IP address.
 
